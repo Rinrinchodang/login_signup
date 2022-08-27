@@ -1,0 +1,34 @@
+{
+    "User": [
+        {
+            "username": "r",
+            "password": "A@123ab*",
+            "Profile": {
+                "description": "hobbies",
+                "Dob": "12/3/03",
+                "Gender": "female",
+                "Hobbies": "singing"
+            }
+        },
+        {
+            "username": "neha",
+            "password": "neha@123A",
+            "Profile": {
+                "description": "dfghjk",
+                "Dob": "10-8-2003",
+                "Gender": "f",
+                "Hobbies": "asdfghjkl"
+            }
+        },
+        {
+            "username": "eiufu",
+            "password": "123@Ab",
+            "Profile": {
+                "description": "akj",
+                "Dob": "15-3-03",
+                "Gender": "female",
+                "Hobbies": "singing"
+            }
+        }
+    ]
+}
